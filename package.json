@@ -5,7 +5,7 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "scripts": {
+ "scripts": {
   "build": "nest build",
   "start": "node dist/main.js",
   "start:dev": "nest start --watch",
